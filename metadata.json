@@ -1,0 +1,6 @@
+{
+  "name": "Талас мамлекеттик университети | ТалМУ (1996–2026)",
+  "description": "Талас мамлекеттик университетинин (ТалМУ / TALSU) расмий порталы. 30 жылдык маараке: Билимге, илимге жана келечекке! (1996–2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
